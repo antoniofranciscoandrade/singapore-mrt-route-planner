@@ -1,5 +1,7 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+.gitignore
+
 # dependencies
 /node_modules
 /.pnp
@@ -21,3 +23,12 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+/src/data/extract.py
+/src/data/index.html
+/src/data/interchange.py
+/src/data/label.py
+/src/data/order.py
+/src/data/seen.json
+/src/data/stations2.json
+/src/data/stations3.json

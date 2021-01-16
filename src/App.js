@@ -1,25 +1,38 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
+import Navbar from './components/Navbar'
+import Sidebar from './components/Sidebar'
+import RailNetwork  from './components/RailNetwork'
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+const verticalContainerStyle = {
+  display: 'flex',
+  flexDirection: 'column'
 }
 
-export default App;
+const horizontalContainerStyle = {
+  display: 'flex',
+  flexDirection: 'row'
+}
+
+const itemStyle = {
+  flex: '1'
+}
+
+const App = () => {
+
+  return (
+    <div style={verticalContainerStyle}>
+      <Navbar/>
+      <div style={horizontalContainerStyle}>
+        <div style={itemStyle}>
+          <Sidebar />
+        </div>
+        <div style={itemStyle}>
+          <RailNetwork/>
+        </div>
+      </div>
+    </div>
+  );
+};
+
+export default App
