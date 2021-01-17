@@ -10,79 +10,74 @@ import DirectionsWalkSharpIcon from '@material-ui/icons/DirectionsWalkSharp';
 import { connect } from 'react-redux';
 
 const Directions = ({ directions, lines, stations }) => {
-    const getIcon = (i) => {
-        if (i === 0) return <TransitEnterexitSharpIcon/>
-        if (i === directions.length - 1) return <ExitToAppSharpIcon/>
-        return <DirectionsWalkSharpIcon/>
+  const getIcon = (i) => {
+    if (i === 0) return <TransitEnterexitSharpIcon />;
+    if (i === directions.length - 1) return <ExitToAppSharpIcon />;
+    return <DirectionsWalkSharpIcon />;
+  };
+
+  const lineColors = lines.reduce(
+    (obj, line) => ({ ...obj, [line.name]: line.color }),
+    {}
+  );
+  const stationNames = stations.reduce((set, station) => {
+    set.add(station.name);
+    return set;
+  }, new Set());
+
+  const getSubstringStyle = (substring, i) => {
+    const style = { fontSize: 14 };
+    if (substring in lineColors && i === 3) {
+      style.color = lineColors[substring];
     }
-
-    const lineColors = lines.reduce((obj, line) => ({...obj, [line.name]: line.color}), {});
-    const stationNames = stations.reduce((set, station) => {
-        set.add(station.name) 
-        return set
-    }, new Set());
-
-    const getSubstringStyle = (substring, i) => {
-        const style = { fontSize: 14 }
-        if (substring in lineColors && i === 3) {
-            style.color = lineColors[substring]
-        }
-        if (substring in lineColors || stationNames.has(substring)) {
-            style.fontWeight = 700
-        }
-        return style
+    if (substring in lineColors || stationNames.has(substring)) {
+      style.fontWeight = 700;
     }
-        
-    const formatDirection = (line) => (
-        <>
-        {line.map( (substring, i) => (
-            <Typography 
-                key={i}
-                type="body2" 
-                display='inline'
-                style={getSubstringStyle(substring, i)}
-                >
-                    {substring}
-            </Typography>
-        ))}
-        </>
-    )
+    return style;
+  };
 
-    return (
+  const formatDirection = (line) => (
     <>
-    {directions.length > 0 && (
-        <Typography variant="h6" style={{fontSize:16}}>
-        Directions
+      {line.map((substring, i) => (
+        <Typography
+          key={i}
+          type='body2'
+          display='inline'
+          style={getSubstringStyle(substring, i)}
+        >
+          {substring}
         </Typography>
-    )}
-    <List dense={true}>
-              {directions.map( (line, i) => (
-                  <ListItem key={i}>
-                    <ListItemIcon>
-                        {getIcon(i)}
-                    </ListItemIcon>
-                    
-                    <ListItemText
-                        
-                        primary={formatDirection(line)}
-                    />
-                    
-                </ListItem>
-              ))}
-    </List>
+      ))}
     </>
-    )
-}
+  );
 
+  return (
+    <>
+      {directions.length > 0 && (
+        <Typography variant='h6' style={{ fontSize: 16 }}>
+          Directions
+        </Typography>
+      )}
+      <List id='directions' dense={true}>
+        {directions.map((line, i) => (
+          <ListItem key={i}>
+            <ListItemIcon>{getIcon(i)}</ListItemIcon>
+            <ListItemText primary={formatDirection(line)} />
+          </ListItem>
+        ))}
+      </List>
+    </>
+  );
+};
 
 const mapStateToProps = (state) => {
-    return {
-      directions: state.railNetwork.directions,
-      lines: state.railNetwork.lines,
-      stations: state.railNetwork.stations
-    };
+  return {
+    directions: state.railNetwork.directions,
+    lines: state.railNetwork.lines,
+    stations: state.railNetwork.stations
   };
+};
 
 const ConnectedDirections = connect(mapStateToProps)(Directions);
 
-export default ConnectedDirections
+export default ConnectedDirections;

@@ -1,1933 +1,1933 @@
 {
-    "ewa":[
-       {
-          "id":"ie1",
-          "name":"Changi Airport",
-          "cx":"1334",
-          "cy":"674",
-          "line":"East-West"
-       },
-       {
-          "id":"ie2",
-          "name":"Expo",
-          "cx":"1286",
-          "cy":"674",
-          "line":"East-West"
-       },
-       {
-          "id":"ie3",
-          "name":"Tanah Merah",
-          "cx":"1227",
-          "cy":"639",
-          "line":"East-West"
-       }
-    ],
-    "ewb":[
-       {
-          "id":"ewb1",
-          "name":"Pasir Ris",
-          "cx":"1283",
-          "cy":"524.5",
-          "line":"East-West"
-       },
-       {
-          "id":"ie4",
-          "name":"Tampines",
-          "cx":"1245",
-          "cy":"580.5",
-          "line":"East-West"
-       },
-       {
-          "id":"ewb3",
-          "name":"Simei",
-          "cx":"1245",
-          "cy":"614",
-          "line":"East-West"
-       },
-       {
-          "id":"ie6",
-          "name":"Tanah Merah",
-          "cx":"1227",
-          "cy":"639",
-          "line":"East-West"
-       },
-       {
-          "id":"ewb5",
-          "name":"Bedok",
-          "cx":"1186",
-          "cy":"639",
-          "line":"East-West"
-       },
-       {
-          "id":"ewb6",
-          "name":"Kembangan",
-          "cx":"1126",
-          "cy":"639",
-          "line":"East-West"
-       },
-       {
-          "id":"ewb7",
-          "name":"Eunos",
-          "cx":"1066",
-          "cy":"639",
-          "line":"East-West"
-       },
-       {
-          "id":"ie7",
-          "name":"Paya Lebar",
-          "cx":"1005",
-          "cy":"639",
-          "line":"East-West"
-       },
-       {
-          "id":"ewb9",
-          "name":"Aljunied",
-          "cx":"984",
-          "cy":"643",
-          "line":"East-West"
-       },
-       {
-          "id":"ewb10",
-          "name":"Kallang",
-          "cx":"946",
-          "cy":"678",
-          "line":"East-West"
-       },
-       {
-          "id":"ewb11",
-          "name":"Lavender",
-          "cx":"926",
-          "cy":"698",
-          "line":"East-West"
-       },
-       {
-          "id":"ie8",
-          "name":"Bugis",
-          "cx":"899",
-          "cy":"726",
-          "line":"East-West"
-       },
-       {
-          "id":"ie9",
-          "name":"City Hall",
-          "cx":"830.3",
-          "cy":"790",
-          "line":"East-West"
-       },
-       {
-          "id":"ie10",
-          "name":"Raffles Place",
-          "cx":"799",
-          "cy":"822",
-          "line":"East-West"
-       },
-       {
-          "id":"ewb15",
-          "name":"Tanjong Pagar",
-          "cx":"698.5",
-          "cy":"848",
-          "line":"East-West"
-       },
-       {
-          "id":"ie11",
-          "name":"Outram Park",
-          "cx":"657",
-          "cy":"790.5",
-          "line":"East-West"
-       },
-       {
-          "id":"ewb17",
-          "name":"Tiong Bahru",
-          "cx":"630",
-          "cy":"748",
-          "line":"East-West"
-       },
-       {
-          "id":"ewb18",
-          "name":"Redhill",
-          "cx":"595.5",
-          "cy":"714",
-          "line":"East-West"
-       },
-       {
-          "id":"ewb19",
-          "name":"Queenstown",
-          "cx":"554.7",
-          "cy":"673",
-          "line":"East-West"
-       },
-       {
-          "id":"ewb20",
-          "name":"Commonwealth",
-          "cx":"519",
-          "cy":"637",
-          "line":"East-West"
-       },
-       {
-          "id":"ie12",
-          "name":"Buona Vista",
-          "cx":"481",
-          "cy":"599",
-          "line":"East-West"
-       },
-       {
-          "id":"ewb22",
-          "name":"Dover",
-          "cx":"451",
-          "cy":"570",
-          "line":"East-West"
-       },
-       {
-          "id":"ewb23",
-          "name":"Clementi",
-          "cx":"405",
-          "cy":"524",
-          "line":"East-West"
-       },
-       {
-          "id":"ie13",
-          "name":"Jurong East",
-          "cx":"286",
-          "cy":"514",
-          "line":"East-West"
-       },
-       {
-          "id":"ewb25",
-          "name":"Chinese Garden",
-          "cx":"247",
-          "cy":"514",
-          "line":"East-West"
-       },
-       {
-          "id":"ewb26",
-          "name":"Lakeside",
-          "cx":"202",
-          "cy":"514",
-          "line":"East-West"
-       },
-       {
-          "id":"ie14",
-          "name":"Boon Lay",
-          "cx":"155",
-          "cy":"514",
-          "line":"East-West"
-       },
-       {
-          "id":"ewb28",
-          "name":"Pioneer",
-          "cx":"120",
-          "cy":"514",
-          "line":"East-West"
-       },
-       {
-          "id":"ewb29",
-          "name":"Joo Koon",
-          "cx":"90",
-          "cy":"514",
-          "line":"East-West"
-       },
-       {
-          "id":"ewb30",
-          "name":"Gul Circle",
-          "cx":"75",
-          "cy":"542",
-          "line":"East-West"
-       },
-       {
-          "id":"ewb31",
-          "name":"Tuas Crescent",
-          "cx":"75",
-          "cy":"570",
-          "line":"East-West"
-       },
-       {
-          "id":"ewb32",
-          "name":"Tuas West Road",
-          "cx":"75",
-          "cy":"598",
-          "line":"East-West"
-       },
-       {
-          "id":"ewb33",
-          "name":"Tuas Link",
-          "cx":"75",
-          "cy":"626",
-          "line":"East-West"
-       }
-    ],
-    "jra":[
-       {
-          "id":"jw5",
-          "name":"Peng Kang Hill",
-          "cx":"75",
-          "cy":"325",
-          "line":"Jurong Region"
-       },
-       {
-          "id":"jw4",
-          "name":"Nanyang Crescent",
-          "cx":"75",
-          "cy":"360",
-          "line":"Jurong Region"
-       },
-       {
-          "id":"jw3",
-          "name":"Nanyang Gateway",
-          "cx":"75",
-          "cy":"395",
-          "line":"Jurong Region"
-       },
-       {
-          "id":"jw2",
-          "name":"Tawas",
-          "cx":"75",
-          "cy":"430",
-          "line":"Jurong Region"
-       },
-       {
-          "id":"jw1",
-          "name":"Gek Poh",
-          "cx":"75",
-          "cy":"465",
-          "line":"Jurong Region"
-       },
-       {
-          "id":"ie15",
-          "name":"Bahar Junction",
-          "cx":"154.5",
-          "cy":"480",
-          "line":"Jurong Region"
-       },
-       {
-         "id":"ie91",
-         "name":"Boon Lay",
-         "cx":"155",
-         "cy":"514",
-         "line":"Jurong Region"
-      },
-      {
-         "id":"js9",
-         "name":"Enterprise",
-         "cx":"156",
-         "cy":"535",
-         "line":"Jurong Region"
-      },
-      {
-         "id":"js10",
-         "name":"Tukang",
-         "cx":"179",
-         "cy":"565",
-         "line":"Jurong Region"
-      },
-      {
-         "id":"js11",
-         "name":"Jurong Hill",
-         "cx":"203.5",
-         "cy":"589",
-         "line":"Jurong Region"
-      },
-      {
-         "id":"js12",
-         "name":"Jurong Pier",
-         "cx":"232",
-         "cy":"617",
-         "line":"Jurong Region"
-      }
-    ],
-    "jrb":[
-       {
-          "id":"ie16",
-          "name":"Choa Chu Kang",
-          "cx":"286",
-          "cy":"225.5",
-          "line":"Jurong Region"
-       },
-       {
-          "id":"js2",
-          "name":"Choa Chu Kang West",
-          "cx":"227",
-          "cy":"286",
-          "line":"Jurong Region"
-       },
-       {
-          "id":"ie17",
-          "name":"Tengah",
-          "cx":"179",
-          "cy":"334",
-          "line":"Jurong Region"
-       },
-       {
-          "id":"js4",
-          "name":"Hong Kah",
-          "cx":"154.5",
-          "cy":"380",
-          "line":"Jurong Region"
-       },
-       {
-          "id":"js5",
-          "name":"Corporation",
-          "cx":"154.5",
-          "cy":"415",
-          "line":"Jurong Region"
-       },
-       {
-          "id":"js6",
-          "name":"Jurong West",
-          "cx":"154.5",
-          "cy":"450",
-          "line":"Jurong Region"
-       },
-       {
-          "id":"ie18",
-          "name":"Bahar Junction",
-          "cx":"154.5",
-          "cy":"480",
-          "line":"Jurong Region"
-       },
-       {
-          "id":"ie19",
-          "name":"Boon Lay",
-          "cx":"155",
-          "cy":"514",
-          "line":"Jurong Region"
-       },
-       {
-          "id":"jsb9",
-          "name":"Enterprise",
-          "cx":"156",
-          "cy":"535",
-          "line":"Jurong Region"
-       },
-       {
-          "id":"jsb10",
-          "name":"Tukang",
-          "cx":"179",
-          "cy":"565",
-          "line":"Jurong Region"
-       },
-       {
-          "id":"jsb11",
-          "name":"Jurong Hill",
-          "cx":"203.5",
-          "cy":"589",
-          "line":"Jurong Region"
-       },
-       {
-          "id":"jsb12",
-          "name":"Jurong Pier",
-          "cx":"232",
-          "cy":"617",
-          "line":"Jurong Region"
-       }
-    ],
-    "jrc":[
-       {
-          "id":"ie20",
-          "name":"Tengah",
-          "cx":"179",
-          "cy":"334",
-          "line":"Jurong Region"
-       },
-       {
-          "id":"je1",
-          "name":"Tengah Plantation",
-          "cx":"170",
-          "cy":"395",
-          "line":"Jurong Region"
-       },
-       {
-          "id":"je2",
-          "name":"Tengah Park",
-          "cx":"198",
-          "cy":"425",
-          "line":"Jurong Region"
-       },
-       {
-          "id":"je3",
-          "name":"Bukit Batok West",
-          "cx":"225",
-          "cy":"452",
-          "line":"Jurong Region"
-       },
-       {
-          "id":"je4",
-          "name":"Toh Guan",
-          "cx":"249",
-          "cy":"477",
-          "line":"Jurong Region"
-       },
-       {
-          "id":"ie21",
-          "name":"Jurong East",
-          "cx":"286",
-          "cy":"514",
-          "line":"Jurong Region"
-       },
-       {
-          "id":"je6",
-          "name":"Jurong Town Hall",
-          "cx":"311",
-          "cy":"539",
-          "line":"Jurong Region"
-       },
-       {
-          "id":"je7",
-          "name":"Pandan Reservoir",
-          "cx":"346",
-          "cy":"574",
-          "line":"Jurong Region"
-       },
-       {
-          "id":"ie22",
-          "name":"Haw Par Villa",
-          "cx":"481",
-          "cy":"709",
-          "line":"Jurong Region"
-       }
-    ],
-    "ns":[
-       {
-          "id":"ie23",
-          "name":"Jurong East",
-          "cx":"286",
-          "cy":"514",
-          "line":"North-South"
-       },
-       {
-          "id":"ns2",
-          "name":"Bukit Batok",
-          "cx":"286",
-          "cy":"413",
-          "line":"North-South"
-       },
-       {
-          "id":"ns3",
-          "name":"Bukit Gombak",
-          "cx":"286",
-          "cy":"351",
-          "line":"North-South"
-       },
-       {
-          "id":"ns3x",
-          "name":"Brickland",
-          "cx":"286",
-          "cy":"291",
-          "line":"North-South"
-       },
-       {
-          "id":"ie24",
-          "name":"Choa Chu Kang",
-          "cx":"286",
-          "cy":"225.5",
-          "line":"North-South"
-       },
-       {
-         "id":"ns6",
-         "name":"Yew Tee",
-         "cx":"286",
-         "cy":"173",
-         "line":"North-South"
-      },
-       {
-          "id":"ie25",
-          "name":"Sungei Kadut",
-          "cx":"286",
-          "cy":"123",
-          "line":"North-South"
-       },
-       {
-          "id":"ns7",
-          "name":"Kranji",
-          "cx":"352",
-          "cy":"87",
-          "line":"North-South"
-       },
-       {
-          "id":"ns8",
-          "name":"Marsiling",
-          "cx":"435",
-          "cy":"87",
-          "line":"North-South"
-       },
-       {
-          "id":"ie26",
-          "name":"Woodlands",
-          "cx":"549",
-          "cy":"87",
-          "line":"North-South"
-       },
-       {
-          "id":"ns10",
-          "name":"Admiralty",
-          "cx":"612",
-          "cy":"87",
-          "line":"North-South"
-       },
-       {
-          "id":"ns11",
-          "name":"Sembawang",
-          "cx":"685",
-          "cy":"87",
-          "line":"North-South"
-       },
-       {
-          "id":"ns12",
-          "name":"Canberra",
-          "cx":"735",
-          "cy":"104",
-          "line":"North-South"
-       },
-       {
-          "id":"ns13",
-          "name":"Yishun",
-          "cx":"775",
-          "cy":"144",
-          "line":"North-South"
-       },
-       {
-          "id":"ns14",
-          "name":"Khatib",
-          "cx":"786",
-          "cy":"202",
-          "line":"North-South"
-       },
-       {
-          "id":"ns15",
-          "name":"Yio Chu Kang",
-          "cx":"786",
-          "cy":"250",
-          "line":"North-South"
-       },
-       {
-          "id":"ns16",
-          "name":"Ang Mo Kio",
-          "cx":"786",
-          "cy":"300",
-          "line":"North-South"
-       },
-       {
-          "id":"ie27",
-          "name":"Bishan",
-          "cx":"786",
-          "cy":"394",
-          "line":"North-South"
-       },
-       {
-          "id":"ns18",
-          "name":"Braddell",
-          "cx":"786",
-          "cy":"428",
-          "line":"North-South"
-       },
-       {
-          "id":"ns19",
-          "name":"Toa Payoh",
-          "cx":"770",
-          "cy":"467",
-          "line":"North-South"
-       },
-       {
-          "id":"ns20",
-          "name":"Novena",
-          "cx":"739",
-          "cy":"498",
-          "line":"North-South"
-       },
-       {
-          "id":"ie28",
-          "name":"Newton",
-          "cx":"705",
-          "cy":"532",
-          "line":"North-South"
-       },
-       {
-          "id":"ie29",
-          "name":"Orchard",
-          "cx":"660",
-          "cy":"586",
-          "line":"North-South"
-       },
-       {
-          "id":"ns23",
-          "name":"Somerset",
-          "cx":"702",
-          "cy":"632",
-          "line":"North-South"
-       },
-       {
-          "id":"ie30",
-          "name":"Dhoby Ghaut",
-          "cx":"760.2",
-          "cy":"689",
-          "line":"North-South"
-       },
-       {
-          "id":"ie31",
-          "name":"City Hall",
-          "cx":"830.3",
-          "cy":"790",
-          "line":"North-South"
-       },
-       {
-          "id":"ie32",
-          "name":"Raffles Place",
-          "cx":"799",
-          "cy":"822",
-          "line":"North-South"
-       },
-       {
-          "id":"ie33",
-          "name":"Marina Bay",
-          "cx":"786",
-          "cy":"916",
-          "line":"North-South"
-       },
-       {
-          "id":"ns28",
-          "name":"Marina South Pier",
-          "cx":"786",
-          "cy":"962",
-          "line":"North-South"
-       }
-    ],
-    "dt":[
-       {
-          "id":"ie34",
-          "name":"Sungei Kadut",
-          "cx":"286",
-          "cy":"123",
-          "line":"Downtown"
-       },
-       {
-          "id":"ie35",
-          "name":"Bukit Panjang",
-          "cx":"479",
-          "cy":"225.5",
-          "line":"Downtown"
-       },
-       {
-          "id":"dt2",
-          "name":"Cashew",
-          "cx":"479",
-          "cy":"265",
-          "line":"Downtown"
-       },
-       {
-          "id":"dt3",
-          "name":"Hillview",
-          "cx":"479",
-          "cy":"297",
-          "line":"Downtown"
-       },
-       {
-          "id":"dt4",
-          "name":"Hume",
-          "cx":"479",
-          "cy":"329",
-          "line":"Downtown"
-       },
-       {
-          "id":"dt5",
-          "name":"Beauty World",
-          "cx":"479",
-          "cy":"361",
-          "line":"Downtown"
-       },
-       {
-          "id":"dt6",
-          "name":"King Albert Park",
-          "cx":"485",
-          "cy":"406",
-          "line":"Downtown"
-       },
-       {
-          "id":"dt7",
-          "name":"Sixth Avenue",
-          "cx":"502",
-          "cy":"425",
-          "line":"Downtown"
-       },
-       {
-          "id":"dt8",
-          "name":"Tan Kah Kee",
-          "cx":"524",
-          "cy":"447.5",
-          "line":"Downtown"
-       },
-       {
-          "id":"ie36",
-          "name":"Botanic Gardens",
-          "cx":"548",
-          "cy":"471.5",
-          "line":"Downtown"
-       },
-       {
-          "id":"ie37",
-          "name":"Stevens",
-          "cx":"658",
-          "cy":"486",
-          "line":"Downtown"
-       },
-       {
-          "id":"ie38",
-          "name":"Newton",
-          "cx":"705",
-          "cy":"532",
-          "line":"Downtown"
-       },
-       {
-          "id":"ie39",
-          "name":"Little India",
-          "cx":"780",
-          "cy":"606.5",
-          "line":"Downtown"
-       },
-       {
-          "id":"dt13",
-          "name":"Rochor",
-          "cx":"818",
-          "cy":"645",
-          "line":"Downtown"
-       },
-       {
-          "id":"ie40",
-          "name":"Bugis",
-          "cx":"899",
-          "cy":"726",
-          "line":"Downtown"
-       },
-       {
-          "id":"ie41",
-          "name":"Promenade",
-          "cx":"953.3",
-          "cy":"806",
-          "line":"Downtown"
-       },
-       {
-          "id":"ie42",
-          "name":"Bayfront",
-          "cx":"887",
-          "cy":"871",
-          "line":"Downtown"
-       },
-       {
-          "id":"dt17",
-          "name":"Downtown",
-          "cx":"804",
-          "cy":"866",
-          "line":"Downtown"
-       },
-       {
-          "id":"dt18",
-          "name":"Telok Ayer",
-          "cx":"742",
-          "cy":"803",
-          "line":"Downtown"
-       },
-       {
-          "id":"ie43",
-          "name":"Chinatown",
-          "cx":"693.5",
-          "cy":"754",
-          "line":"Downtown"
-       },
-       {
-          "id":"dt20",
-          "name":"Fort Canning",
-          "cx":"703.5",
-          "cy":"727",
-          "line":"Downtown"
-       },
-       {
-          "id":"dt21",
-          "name":"Bencoolen",
-          "cx":"832",
-          "cy":"693",
-          "line":"Downtown"
-       },
-       {
-          "id":"dt22",
-          "name":"Jalan Besar",
-          "cx":"865",
-          "cy":"659.8",
-          "line":"Downtown"
-       },
-       {
-          "id":"dt23",
-          "name":"Bendemeer",
-          "cx":"896",
-          "cy":"629",
-          "line":"Downtown"
-       },
-       {
-          "id":"dt24",
-          "name":"Geylang Bahru",
-          "cx":"927",
-          "cy":"598",
-          "line":"Downtown"
-       },
-       {
-          "id":"dt25",
-          "name":"Mattar",
-          "cx":"965",
-          "cy":"580",
-          "line":"Downtown"
-       },
-       {
-          "id":"ie44",
-          "name":"MacPherson",
-          "cx":"995",
-          "cy":"580",
-          "line":"Downtown"
-       },
-       {
-          "id":"dt27",
-          "name":"Ubi",
-          "cx":"1046",
-          "cy":"580",
-          "line":"Downtown"
-       },
-       {
-          "id":"dt28",
-          "name":"Kaki Bukit",
-          "cx":"1089",
-          "cy":"580",
-          "line":"Downtown"
-       },
-       {
-          "id":"dt29",
-          "name":"Bedok North",
-          "cx":"1129",
-          "cy":"580",
-          "line":"Downtown"
-       },
-       {
-          "id":"dt30",
-          "name":"Bedok Reservoir",
-          "cx":"1172.5",
-          "cy":"580",
-          "line":"Downtown"
-       },
-       {
-          "id":"dt31",
-          "name":"Tampines West",
-          "cx":"1211",
-          "cy":"580",
-          "line":"Downtown"
-       },
-       {
-          "id":"ie45",
-          "name":"Tampines",
-          "cx":"1245",
-          "cy":"580.5",
-          "line":"Downtown"
-       },
-       {
-          "id":"dt33",
-          "name":"Tampines East",
-          "cx":"1286",
-          "cy":"612",
-          "line":"Downtown"
-       },
-       {
-          "id":"dt34",
-          "name":"Upper Changi",
-          "cx":"1286",
-          "cy":"647",
-          "line":"Downtown"
-       },
-       {
-          "id":"ie46",
-          "name":"Expo",
-          "cx":"1286",
-          "cy":"674",
-          "line":"Downtown"
-       },
-       {
-          "id":"dt36",
-          "name":"Xilin",
-          "cx":"1286",
-          "cy":"726",
-          "line":"Downtown"
-       },
-       {
-          "id":"ie47",
-          "name":"Sungei Bedok",
-          "cx":"1286",
-          "cy":"766",
-          "line":"Downtown"
-       }
-    ],
-    "te":[
-       {
-          "id":"te1",
-          "name":"Woodlands North",
-          "cx":"496",
-          "cy":"34",
-          "line":"Thomson-East Coast"
-       },
-       {
-          "id":"ie48",
-          "name":"Woodlands",
-          "cx":"549",
-          "cy":"87",
-          "line":"Thomson-East Coast"
-       },
-       {
-          "id":"te3",
-          "name":"Woodlands South",
-          "cx":"589",
-          "cy":"127",
-          "line":"Thomson-East Coast"
-       },
-       {
-          "id":"te4",
-          "name":"Springleaf",
-          "cx":"624",
-          "cy":"161.8",
-          "line":"Thomson-East Coast"
-       },
-       {
-          "id":"te5",
-          "name":"Lentor",
-          "cx":"658",
-          "cy":"208",
-          "line":"Thomson-East Coast"
-       },
-       {
-          "id":"te6",
-          "name":"Mayflower",
-          "cx":"658",
-          "cy":"247",
-          "line":"Thomson-East Coast"
-       },
-       {
-          "id":"te7",
-          "name":"Bright Hill",
-          "cx":"658",
-          "cy":"309",
-          "line":"Thomson-East Coast"
-       },
-       {
-          "id":"te8",
-          "name":"Upper Thomson",
-          "cx":"658",
-          "cy":"357",
-          "line":"Thomson-East Coast"
-       },
-       {
-          "id":"ie49",
-          "name":"Caldecott",
-          "cx":"658",
-          "cy":"402.8",
-          "line":"Thomson-East Coast"
-       },
-       {
-          "id":"te10",
-          "name":"Mount Pleasant",
-          "cx":"658",
-          "cy":"444",
-          "line":"Thomson-East Coast"
-       },
-       {
-          "id":"ie50",
-          "name":"Stevens",
-          "cx":"658",
-          "cy":"486",
-          "line":"Thomson-East Coast"
-       },
-       {
-          "id":"te12",
-          "name":"Napier",
-          "cx":"658",
-          "cy":"517",
-          "line":"Thomson-East Coast"
-       },
-       {
-          "id":"te13",
-          "name":"Orchard Boulevard",
-          "cx":"658",
-          "cy":"549",
-          "line":"Thomson-East Coast"
-       },
-       {
-          "id":"ie51",
-          "name":"Orchard",
-          "cx":"660",
-          "cy":"586",
-          "line":"Thomson-East Coast"
-       },
-       {
-          "id":"te15",
-          "name":"Great World",
-          "cx":"658",
-          "cy":"648",
-          "line":"Thomson-East Coast"
-       },
-       {
-          "id":"te16",
-          "name":"Havelock",
-          "cx":"658",
-          "cy":"694",
-          "line":"Thomson-East Coast"
-       },
-       {
-          "id":"ie52",
-          "name":"Outram Park",
-          "cx":"657",
-          "cy":"790.5",
-          "line":"Thomson-East Coast"
-       },
-       {
-          "id":"te18",
-          "name":"Maxwell",
-          "cx":"690",
-          "cy":"825",
-          "line":"Thomson-East Coast"
-       },
-       {
-          "id":"te19",
-          "name":"Shenton Way",
-          "cx":"745",
-          "cy":"881",
-          "line":"Thomson-East Coast"
-       },
-       {
-          "id":"ie53",
-          "name":"Marina Bay",
-          "cx":"786",
-          "cy":"916",
-          "line":"Thomson-East Coast"
-       },
-       {
-          "id":"te21",
-          "name":"Marina South",
-          "cx":"846",
-          "cy":"953",
-          "line":"Thomson-East Coast"
-       },
-       {
-          "id":"te22",
-          "name":"Gardens by the Bay",
-          "cx":"901",
-          "cy":"948",
-          "line":"Thomson-East Coast"
-       },
-       {
-          "id":"te22a",
-          "name":"Founders Memorial",
-          "cx":"951",
-          "cy":"915",
-          "line":"Thomson-East Coast"
-       },
-       {
-          "id":"te23",
-          "name":"Tanjong Rhu",
-          "cx":"1001",
-          "cy":"865",
-          "line":"Thomson-East Coast"
-       },
-       {
-          "id":"te24",
-          "name":"Katong Park",
-          "cx":"1027",
-          "cy":"829",
-          "line":"Thomson-East Coast"
-       },
-       {
-          "id":"te25",
-          "name":"Tanjong Katong",
-          "cx":"1044",
-          "cy":"797",
-          "line":"Thomson-East Coast"
-       },
-       {
-          "id":"te26",
-          "name":"Marine Parade",
-          "cx":"1085",
-          "cy":"766",
-          "line":"Thomson-East Coast"
-       },
-       {
-          "id":"te27",
-          "name":"Marine Terrace",
-          "cx":"1124",
-          "cy":"766",
-          "line":"Thomson-East Coast"
-       },
-       {
-          "id":"te28",
-          "name":"Siglap",
-          "cx":"1163",
-          "cy":"766",
-          "line":"Thomson-East Coast"
-       },
-       {
-          "id":"te29",
-          "name":"Bayshore",
-          "cx":"1202",
-          "cy":"766",
-          "line":"Thomson-East Coast"
-       },
-       {
-          "id":"te30",
-          "name":"Bedok South",
-          "cx":"1241",
-          "cy":"766",
-          "line":"Thomson-East Coast"
-       },
-       {
-          "id":"ie54",
-          "name":"Sungei Bedok",
-          "cx":"1286",
-          "cy":"766",
-          "line":"Thomson-East Coast"
-       },
-       {
-          "id":"ie55",
-          "name":"Changi Airport",
-          "cx":"1334",
-          "cy":"674",
-          "line":"Thomson-East Coast"
-       }
-    ],
-    "ne":[
-       {
-          "id":"ne18",
-          "name":"Punggol Coast",
-          "cx":"1254",
-          "cy":"132",
-          "line":"North-East"
-       },
-       {
-          "id":"ie56",
-          "name":"Punggol",
-          "cx":"1177",
-          "cy":"209.5",
-          "line":"North-East"
-       },
-       {
-          "id":"ie57",
-          "name":"Sengkang",
-          "cx":"1080.7",
-          "cy":"305.3",
-          "line":"North-East"
-       },
-       {
-          "id":"ne15",
-          "name":"Buangkok",
-          "cx":"1018",
-          "cy":"368",
-          "line":"North-East"
-       },
-       {
-          "id":"ne14",
-          "name":"Hougang",
-          "cx":"988",
-          "cy":"398.5",
-          "line":"North-East"
-       },
-       {
-          "id":"ne13",
-          "name":"Kovan",
-          "cx":"956",
-          "cy":"430",
-          "line":"North-East"
-       },
-       {
-          "id":"ie58",
-          "name":"Serangoon",
-          "cx":"923",
-          "cy":"463.2",
-          "line":"North-East"
-       },
-       {
-          "id":"ne11",
-          "name":"Woodleigh",
-          "cx":"888",
-          "cy":"498",
-          "line":"North-East"
-       },
-       {
-          "id":"ne10",
-          "name":"Potong Pasir",
-          "cx":"861",
-          "cy":"525",
-          "line":"North-East"
-       },
-       {
-          "id":"ne9",
-          "name":"Boon Keng",
-          "cx":"833",
-          "cy":"553",
-          "line":"North-East"
-       },
-       {
-          "id":"ne8",
-          "name":"Farrer Park",
-          "cx":"807.5",
-          "cy":"578.4",
-          "line":"North-East"
-       },
-       {
-          "id":"ie59",
-          "name":"Little India",
-          "cx":"780",
-          "cy":"606.5",
-          "line":"North-East"
-       },
-       {
-          "id":"ie60",
-          "name":"Dhoby Ghaut",
-          "cx":"760.2",
-          "cy":"689",
-          "line":"North-East"
-       },
-       {
-          "id":"ne5",
-          "name":"Clarke Quay",
-          "cx":"723.5",
-          "cy":"724.5",
-          "line":"North-East"
-       },
-       {
-          "id":"ie61",
-          "name":"Chinatown",
-          "cx":"693.5",
-          "cy":"754",
-          "line":"North-East"
-       },
-       {
-          "id":"ie62",
-          "name":"Outram Park",
-          "cx":"657",
-          "cy":"790.5",
-          "line":"North-East"
-       },
-       {
-          "id":"ie63",
-          "name":"HarbourFront",
-          "cx":"581",
-          "cy":"866",
-          "line":"North-East"
-       }
-    ],
-    "cca":[
-       {
-          "id":"ie64",
-          "name":"Marymount",
-          "cx":"721",
-          "cy":"390.8",
-          "line":"Circle"
-       },
-       {
-          "id":"ie65",
-          "name":"Bishan",
-          "cx":"786",
-          "cy":"394",
-          "line":"Circle"
-       },
-       {
-          "id":"cc14",
-          "name":"Lorong Chuan",
-          "cx":"859",
-          "cy":"418",
-          "line":"Circle"
-       },
-       {
-          "id":"ie66",
-          "name":"Serangoon",
-          "cx":"923",
-          "cy":"463.2",
-          "line":"Circle"
-       },
-       {
-          "id":"cc12",
-          "name":"Bartley",
-          "cx":"964",
-          "cy":"514",
-          "line":"Circle"
-       },
-       {
-          "id":"cc11",
-          "name":"Tai Seng",
-          "cx":"984.5",
-          "cy":"552",
-          "line":"Circle"
-       },
-       {
-          "id":"ie67",
-          "name":"MacPherson",
-          "cx":"995",
-          "cy":"580",
-          "line":"Circle"
-       },
-       {
-          "id":"ie68",
-          "name":"Paya Lebar",
-          "cx":"1005",
-          "cy":"639",
-          "line":"Circle"
-       },
-       {
-          "id":"cc8",
-          "name":"Dakota",
-          "cx":"1005",
-          "cy":"670",
-          "line":"Circle"
-       },
-       {
-          "id":"cc7",
-          "name":"Mountbatten",
-          "cx":"1002",
-          "cy":"695",
-          "line":"Circle"
-       },
-       {
-          "id":"cc6",
-          "name":"Stadium",
-          "cx":"997",
-          "cy":"720",
-          "line":"Circle"
-       },
-       {
-          "id":"cc5",
-          "name":"Nicoll Highway",
-          "cx":"980",
-          "cy":"766",
-          "line":"Circle"
-       },
-       {
-          "id":"ie69",
-          "name":"Promenade",
-          "cx":"953.3",
-          "cy":"806",
-          "line":"Circle"
-       },
-       {
-          "id":"ie70",
-          "name":"Bayfront",
-          "cx":"887",
-          "cy":"871",
-          "line":"Circle"
-       },
-       {
-          "id":"ie71",
-          "name":"Marina Bay",
-          "cx":"786",
-          "cy":"916",
-          "line":"Circle"
-       },
-       {
-          "id":"cc32",
-          "name":"Prince Edward Road",
-          "cx":"735",
-          "cy":"919",
-          "line":"Circle"
-       },
-       {
-          "id":"cc31",
-          "name":"Cantonment",
-          "cx":"681",
-          "cy":"912",
-          "line":"Circle"
-       },
-       {
-          "id":"cc30",
-          "name":"Keppel",
-          "cx":"630",
-          "cy":"895",
-          "line":"Circle"
-       },
-       {
-          "id":"ie72",
-          "name":"HarbourFront",
-          "cx":"581",
-          "cy":"866",
-          "line":"Circle"
-       },
-       {
-          "id":"cc28",
-          "name":"Telok Blangah",
-          "cx":"540",
-          "cy":"827.5",
-          "line":"Circle"
-       },
-       {
-          "id":"cc27",
-          "name":"Labrador Park",
-          "cx":"513.8",
-          "cy":"792",
-          "line":"Circle"
-       },
-       {
-          "id":"cc26",
-          "name":"Pasir Panjang",
-          "cx":"493.5",
-          "cy":"750",
-          "line":"Circle"
-       },
-       {
-          "id":"ie73",
-          "name":"Haw Par Villa",
-          "cx":"481",
-          "cy":"709",
-          "line":"Circle"
-       },
-       {
-          "id":"cc24",
-          "name":"Kent Ridge",
-          "cx":"476",
-          "cy":"674",
-          "line":"Circle"
-       },
-       {
-          "id":"cc23",
-          "name":"one-north",
-          "cx":"475.7",
-          "cy":"637",
-          "line":"Circle"
-       },
-       {
-          "id":"ie74",
-          "name":"Buona Vista",
-          "cx":"481",
-          "cy":"599",
-          "line":"Circle"
-       },
-       {
-          "id":"cc21",
-          "name":"Holland Village",
-          "cx":"497",
-          "cy":"549",
-          "line":"Circle"
-       },
-       {
-          "id":"cc20",
-          "name":"Farrer Road",
-          "cx":"515.5",
-          "cy":"514",
-          "line":"Circle"
-       },
-       {
-          "id":"ie75",
-          "name":"Botanic Gardens",
-          "cx":"548",
-          "cy":"471.5",
-          "line":"Circle"
-       },
-       {
-          "id":"cc18",
-          "name":"Bukit Brown",
-          "cx":"601",
-          "cy":"429",
-          "line":"Circle"
-       },
-       {
-          "id":"ie76",
-          "name":"Caldecott",
-          "cx":"658",
-          "cy":"402.8",
-          "line":"Circle"
-       },
-       {
-          "id":"ie77",
-          "name":"Marymount",
-          "cx":"721",
-          "cy":"390.8",
-          "line":"Circle"
-       }
-    ],
-    "ccb":[
-      {
-         "id":"ce4",
-         "name":"Promenade",
-         "cx":"953.3",
-         "cy":"806",
-         "line":"Circle"
-      },
-      {
-         "id":"cc3",
-         "name":"Esplanade",
-         "cx":"870",
-         "cy":"785",
-         "line":"Circle"
-      },
-      {
-         "id":"cc2",
-         "name":"Bras Basah",
-         "cx":"824",
-         "cy":"739",
-         "line":"Circle"
-      },
-      {
-         "id":"cc1",
-         "name":"Dhoby Ghaut",
-         "cx":"760.2",
-         "cy":"689",
-         "line":"Circle"
-      }
-    ],
-    "bplrta":[
-       {
-          "id":"ie78",
-          "name":"Choa Chu Kang",
-          "cx":"286",
-          "cy":"225.5",
-          "line":"Bukit Panjang"
-       },
-       {
-          "id":"bp2",
-          "name":"South View",
-          "cx":"321",
-          "cy":"226",
-          "line":"Bukit Panjang"
-       },
-       {
-          "id":"bp3",
-          "name":"Keat Hong",
-          "cx":"356",
-          "cy":"226",
-          "line":"Bukit Panjang"
-       },
-       {
-          "id":"bp4",
-          "name":"Teck Whye",
-          "cx":"391",
-          "cy":"226",
-          "line":"Bukit Panjang"
-       },
-       {
-          "id":"bp5",
-          "name":"Phoenix",
-          "cx":"426",
-          "cy":"226",
-          "line":"Bukit Panjang"
-       },
-       {
-          "id":"ie79",
-          "name":"Bukit Panjang",
-          "cx":"479",
-          "cy":"225.5",
-          "line":"Bukit Panjang"
-       }
-    ],
-    "bplrtb":[
-       {
-          "id":"ie80",
-          "name":"Bukit Panjang",
-          "cx":"479",
-          "cy":"225.5",
-          "line":"Bukit Panjang"
-       },
-       {
-          "id":"bp13",
-          "name":"Senja",
-          "cx":"521",
-          "cy":"206",
-          "line":"Bukit Panjang"
-       },
-       {
-          "id":"bp12",
-          "name":"Jelapang",
-          "cx":"546",
-          "cy":"192",
-          "line":"Bukit Panjang"
-       },
-       {
-          "id":"bp11",
-          "name":"Segar",
-          "cx":"565",
-          "cy":"204",
-          "line":"Bukit Panjang"
-       },
-       {
-          "id":"bp10",
-          "name":"Fajar",
-          "cx":"565",
-          "cy":"226",
-          "line":"Bukit Panjang"
-       },
-       {
-          "id":"bp9",
-          "name":"Bangkit",
-          "cx":"565",
-          "cy":"248",
-          "line":"Bukit Panjang"
-       },
-       {
-          "id":"bp8",
-          "name":"Pending",
-          "cx":"546",
-          "cy":"259",
-          "line":"Bukit Panjang"
-       },
-       {
-          "id":"bp7",
-          "name":"Petir",
-          "cx":"521",
-          "cy":"245",
-          "line":"Bukit Panjang"
-       },
-       {
-          "id":"ie81",
-          "name":"Bukit Panjang",
-          "cx":"479",
-          "cy":"225.5",
-          "line":"Bukit Panjang"
-       }
-    ],
-    "sklrta":[
-       {
-          "id":"ie82",
-          "name":"Sengkang",
-          "cx":"1080.7",
-          "cy":"305.3",
-          "line":"Sengkang-Punggol"
-       },
-       {
-          "id":"sw8",
-          "name":"Renjong",
-          "cx":"1047",
-          "cy":"291.5",
-          "line":"Sengkang-Punggol"
-       },
-       {
-          "id":"sw7",
-          "name":"Tongkang",
-          "cx":"1018.7",
-          "cy":"284.5",
-          "line":"Sengkang-Punggol"
-       },
-       {
-          "id":"sw6",
-          "name":"Layar",
-          "cx":"1003.5",
-          "cy":"269.5",
-          "line":"Sengkang-Punggol"
-       },
-       {
-          "id":"sw5",
-          "name":"Fernvale",
-          "cx":"1002",
-          "cy":"249",
-          "line":"Sengkang-Punggol"
-       },
-       {
-          "id":"sw4",
-          "name":"Thanggam",
-          "cx":"1022",
-          "cy":"229",
-          "line":"Sengkang-Punggol"
-       },
-       {
-          "id":"sw3",
-          "name":"Kupang",
-          "cx":"1044",
-          "cy":"229",
-          "line":"Sengkang-Punggol"
-       },
-       {
-          "id":"sw2",
-          "name":"Farmway",
-          "cx":"1061.4",
-          "cy":"247",
-          "line":"Sengkang-Punggol"
-       },
-       {
-          "id":"sw1",
-          "name":"Cheng Lim",
-          "cx":"1066.5",
-          "cy":"273.5",
-          "line":"Sengkang-Punggol"
-       },
-       {
-          "id":"ie83",
-          "name":"Sengkang",
-          "cx":"1080.7",
-          "cy":"305.3",
-          "line":"Sengkang-Punggol"
-       }
-    ],
-    "sklrtb":[
-       {
-          "id":"ie84",
-          "name":"Sengkang",
-          "cx":"1080.7",
-          "cy":"305.3",
-          "line":"Sengkang-Punggol"
-       },
-       {
-          "id":"se1",
-          "name":"Compassvale",
-          "cx":"1127",
-          "cy":"321",
-          "line":"Sengkang-Punggol"
-       },
-       {
-          "id":"se2",
-          "name":"Rumbia",
-          "cx":"1154",
-          "cy":"339",
-          "line":"Sengkang-Punggol"
-       },
-       {
-          "id":"se3",
-          "name":"Bakau",
-          "cx":"1151",
-          "cy":"372",
-          "line":"Sengkang-Punggol"
-       },
-       {
-          "id":"se4",
-          "name":"Kangkar",
-          "cx":"1113",
-          "cy":"377.3",
-          "line":"Sengkang-Punggol"
-       },
-       {
-          "id":"se5",
-          "name":"Ranggung",
-          "cx":"1095.5",
-          "cy":"348.5",
-          "line":"Sengkang-Punggol"
-       },
-       {
-          "id":"ie85",
-          "name":"Sengkang",
-          "cx":"1080.7",
-          "cy":"305.3",
-          "line":"Sengkang-Punggol"
-       }
-    ],
-    "pglrta":[
-       {
-          "id":"ie86",
-          "name":"Punggol",
-          "cx":"1177",
-          "cy":"209.5",
-          "line":"Sengkang-Punggol"
-       },
-       {
-          "id":"pw7",
-          "name":"Soo Teck",
-          "cx":"1141",
-          "cy":"194.5",
-          "line":"Sengkang-Punggol"
-       },
-       {
-          "id":"pw6",
-          "name":"Sumang",
-          "cx":"1115.5",
-          "cy":"190",
-          "line":"Sengkang-Punggol"
-       },
-       {
-          "id":"pw5",
-          "name":"Nibong",
-          "cx":"1098.5",
-          "cy":"173",
-          "line":"Sengkang-Punggol"
-       },
-       {
-          "id":"pw4",
-          "name":"Samudera",
-          "cx":"1106",
-          "cy":"144",
-          "line":"Sengkang-Punggol"
-       },
-       {
-          "id":"pw3",
-          "name":"Punggol Point",
-          "cx":"1139",
-          "cy":"132",
-          "line":"Sengkang-Punggol"
-       },
-       {
-          "id":"pw2",
-          "name":"Teck Lee",
-          "cx":"1156",
-          "cy":"150",
-          "line":"Sengkang-Punggol"
-       },
-       {
-          "id":"pw1",
-          "name":"Sam Kee",
-          "cx":"1161",
-          "cy":"177",
-          "line":"Sengkang-Punggol"
-       },
-       {
-          "id":"ie87",
-          "name":"Punggol",
-          "cx":"1177",
-          "cy":"209.5",
-          "line":"Sengkang-Punggol"
-       }
-    ],
-    "pglrtb":[
-       {
-          "id":"ie88",
-          "name":"Punggol",
-          "cx":"1177",
-          "cy":"209.5",
-          "line":"Sengkang-Punggol"
-       },
-       {
-          "id":"pe7",
-          "name":"Damai",
-          "cx":"1214",
-          "cy":"224",
-          "line":"Sengkang-Punggol"
-       },
-       {
-          "id":"pe6",
-          "name":"Oasis",
-          "cx":"1238",
-          "cy":"230.5",
-          "line":"Sengkang-Punggol"
-       },
-       {
-          "id":"pe5",
-          "name":"Kadaloor",
-          "cx":"1254",
-          "cy":"246.5",
-          "line":"Sengkang-Punggol"
-       },
-       {
-          "id":"pe4",
-          "name":"Riviera",
-          "cx":"1245",
-          "cy":"277.7",
-          "line":"Sengkang-Punggol"
-       },
-       {
-          "id":"pe3",
-          "name":"Coral Edge",
-          "cx":"1215",
-          "cy":"287",
-          "line":"Sengkang-Punggol"
-       },
-       {
-          "id":"pe2",
-          "name":"Meridian",
-          "cx":"1198",
-          "cy":"270",
-          "line":"Sengkang-Punggol"
-       },
-       {
-          "id":"pe1",
-          "name":"Cove",
-          "cx":"1191.7",
-          "cy":"247.3",
-          "line":"Sengkang-Punggol"
-       },
-       {
-          "id":"ie89",
-          "name":"Punggol",
-          "cx":"1177",
-          "cy":"209.5",
-          "line":"Sengkang-Punggol"
-       }
-    ]
- }
+  "ewa": [
+    {
+      "id": "ie1",
+      "name": "Changi Airport",
+      "cx": "1334",
+      "cy": "674",
+      "line": "East-West"
+    },
+    {
+      "id": "ie2",
+      "name": "Expo",
+      "cx": "1286",
+      "cy": "674",
+      "line": "East-West"
+    },
+    {
+      "id": "ie3",
+      "name": "Tanah Merah",
+      "cx": "1227",
+      "cy": "639",
+      "line": "East-West"
+    }
+  ],
+  "ewb": [
+    {
+      "id": "ewb1",
+      "name": "Pasir Ris",
+      "cx": "1283",
+      "cy": "524.5",
+      "line": "East-West"
+    },
+    {
+      "id": "ie4",
+      "name": "Tampines",
+      "cx": "1245",
+      "cy": "580.5",
+      "line": "East-West"
+    },
+    {
+      "id": "ewb3",
+      "name": "Simei",
+      "cx": "1245",
+      "cy": "614",
+      "line": "East-West"
+    },
+    {
+      "id": "ie6",
+      "name": "Tanah Merah",
+      "cx": "1227",
+      "cy": "639",
+      "line": "East-West"
+    },
+    {
+      "id": "ewb5",
+      "name": "Bedok",
+      "cx": "1186",
+      "cy": "639",
+      "line": "East-West"
+    },
+    {
+      "id": "ewb6",
+      "name": "Kembangan",
+      "cx": "1126",
+      "cy": "639",
+      "line": "East-West"
+    },
+    {
+      "id": "ewb7",
+      "name": "Eunos",
+      "cx": "1066",
+      "cy": "639",
+      "line": "East-West"
+    },
+    {
+      "id": "ie7",
+      "name": "Paya Lebar",
+      "cx": "1005",
+      "cy": "639",
+      "line": "East-West"
+    },
+    {
+      "id": "ewb9",
+      "name": "Aljunied",
+      "cx": "984",
+      "cy": "643",
+      "line": "East-West"
+    },
+    {
+      "id": "ewb10",
+      "name": "Kallang",
+      "cx": "946",
+      "cy": "678",
+      "line": "East-West"
+    },
+    {
+      "id": "ewb11",
+      "name": "Lavender",
+      "cx": "926",
+      "cy": "698",
+      "line": "East-West"
+    },
+    {
+      "id": "ie8",
+      "name": "Bugis",
+      "cx": "899",
+      "cy": "726",
+      "line": "East-West"
+    },
+    {
+      "id": "ie9",
+      "name": "City Hall",
+      "cx": "830.3",
+      "cy": "790",
+      "line": "East-West"
+    },
+    {
+      "id": "ie10",
+      "name": "Raffles Place",
+      "cx": "799",
+      "cy": "822",
+      "line": "East-West"
+    },
+    {
+      "id": "ewb15",
+      "name": "Tanjong Pagar",
+      "cx": "698.5",
+      "cy": "848",
+      "line": "East-West"
+    },
+    {
+      "id": "ie11",
+      "name": "Outram Park",
+      "cx": "657",
+      "cy": "790.5",
+      "line": "East-West"
+    },
+    {
+      "id": "ewb17",
+      "name": "Tiong Bahru",
+      "cx": "630",
+      "cy": "748",
+      "line": "East-West"
+    },
+    {
+      "id": "ewb18",
+      "name": "Redhill",
+      "cx": "595.5",
+      "cy": "714",
+      "line": "East-West"
+    },
+    {
+      "id": "ewb19",
+      "name": "Queenstown",
+      "cx": "554.7",
+      "cy": "673",
+      "line": "East-West"
+    },
+    {
+      "id": "ewb20",
+      "name": "Commonwealth",
+      "cx": "519",
+      "cy": "637",
+      "line": "East-West"
+    },
+    {
+      "id": "ie12",
+      "name": "Buona Vista",
+      "cx": "481",
+      "cy": "599",
+      "line": "East-West"
+    },
+    {
+      "id": "ewb22",
+      "name": "Dover",
+      "cx": "451",
+      "cy": "570",
+      "line": "East-West"
+    },
+    {
+      "id": "ewb23",
+      "name": "Clementi",
+      "cx": "405",
+      "cy": "524",
+      "line": "East-West"
+    },
+    {
+      "id": "ie13",
+      "name": "Jurong East",
+      "cx": "286",
+      "cy": "514",
+      "line": "East-West"
+    },
+    {
+      "id": "ewb25",
+      "name": "Chinese Garden",
+      "cx": "247",
+      "cy": "514",
+      "line": "East-West"
+    },
+    {
+      "id": "ewb26",
+      "name": "Lakeside",
+      "cx": "202",
+      "cy": "514",
+      "line": "East-West"
+    },
+    {
+      "id": "ie14",
+      "name": "Boon Lay",
+      "cx": "155",
+      "cy": "514",
+      "line": "East-West"
+    },
+    {
+      "id": "ewb28",
+      "name": "Pioneer",
+      "cx": "120",
+      "cy": "514",
+      "line": "East-West"
+    },
+    {
+      "id": "ewb29",
+      "name": "Joo Koon",
+      "cx": "90",
+      "cy": "514",
+      "line": "East-West"
+    },
+    {
+      "id": "ewb30",
+      "name": "Gul Circle",
+      "cx": "75",
+      "cy": "542",
+      "line": "East-West"
+    },
+    {
+      "id": "ewb31",
+      "name": "Tuas Crescent",
+      "cx": "75",
+      "cy": "570",
+      "line": "East-West"
+    },
+    {
+      "id": "ewb32",
+      "name": "Tuas West Road",
+      "cx": "75",
+      "cy": "598",
+      "line": "East-West"
+    },
+    {
+      "id": "ewb33",
+      "name": "Tuas Link",
+      "cx": "75",
+      "cy": "626",
+      "line": "East-West"
+    }
+  ],
+  "jra": [
+    {
+      "id": "jw5",
+      "name": "Peng Kang Hill",
+      "cx": "75",
+      "cy": "325",
+      "line": "Jurong Region"
+    },
+    {
+      "id": "jw4",
+      "name": "Nanyang Crescent",
+      "cx": "75",
+      "cy": "360",
+      "line": "Jurong Region"
+    },
+    {
+      "id": "jw3",
+      "name": "Nanyang Gateway",
+      "cx": "75",
+      "cy": "395",
+      "line": "Jurong Region"
+    },
+    {
+      "id": "jw2",
+      "name": "Tawas",
+      "cx": "75",
+      "cy": "430",
+      "line": "Jurong Region"
+    },
+    {
+      "id": "jw1",
+      "name": "Gek Poh",
+      "cx": "75",
+      "cy": "465",
+      "line": "Jurong Region"
+    },
+    {
+      "id": "ie15",
+      "name": "Bahar Junction",
+      "cx": "154.5",
+      "cy": "480",
+      "line": "Jurong Region"
+    },
+    {
+      "id": "ie91",
+      "name": "Boon Lay",
+      "cx": "155",
+      "cy": "514",
+      "line": "Jurong Region"
+    },
+    {
+      "id": "js9",
+      "name": "Enterprise",
+      "cx": "156",
+      "cy": "535",
+      "line": "Jurong Region"
+    },
+    {
+      "id": "js10",
+      "name": "Tukang",
+      "cx": "179",
+      "cy": "565",
+      "line": "Jurong Region"
+    },
+    {
+      "id": "js11",
+      "name": "Jurong Hill",
+      "cx": "203.5",
+      "cy": "589",
+      "line": "Jurong Region"
+    },
+    {
+      "id": "js12",
+      "name": "Jurong Pier",
+      "cx": "232",
+      "cy": "617",
+      "line": "Jurong Region"
+    }
+  ],
+  "jrb": [
+    {
+      "id": "ie16",
+      "name": "Choa Chu Kang",
+      "cx": "286",
+      "cy": "225.5",
+      "line": "Jurong Region"
+    },
+    {
+      "id": "js2",
+      "name": "Choa Chu Kang West",
+      "cx": "227",
+      "cy": "286",
+      "line": "Jurong Region"
+    },
+    {
+      "id": "ie17",
+      "name": "Tengah",
+      "cx": "179",
+      "cy": "334",
+      "line": "Jurong Region"
+    },
+    {
+      "id": "js4",
+      "name": "Hong Kah",
+      "cx": "154.5",
+      "cy": "380",
+      "line": "Jurong Region"
+    },
+    {
+      "id": "js5",
+      "name": "Corporation",
+      "cx": "154.5",
+      "cy": "415",
+      "line": "Jurong Region"
+    },
+    {
+      "id": "js6",
+      "name": "Jurong West",
+      "cx": "154.5",
+      "cy": "450",
+      "line": "Jurong Region"
+    },
+    {
+      "id": "ie18",
+      "name": "Bahar Junction",
+      "cx": "154.5",
+      "cy": "480",
+      "line": "Jurong Region"
+    },
+    {
+      "id": "ie19",
+      "name": "Boon Lay",
+      "cx": "155",
+      "cy": "514",
+      "line": "Jurong Region"
+    },
+    {
+      "id": "jsb9",
+      "name": "Enterprise",
+      "cx": "156",
+      "cy": "535",
+      "line": "Jurong Region"
+    },
+    {
+      "id": "jsb10",
+      "name": "Tukang",
+      "cx": "179",
+      "cy": "565",
+      "line": "Jurong Region"
+    },
+    {
+      "id": "jsb11",
+      "name": "Jurong Hill",
+      "cx": "203.5",
+      "cy": "589",
+      "line": "Jurong Region"
+    },
+    {
+      "id": "jsb12",
+      "name": "Jurong Pier",
+      "cx": "232",
+      "cy": "617",
+      "line": "Jurong Region"
+    }
+  ],
+  "jrc": [
+    {
+      "id": "ie20",
+      "name": "Tengah",
+      "cx": "179",
+      "cy": "334",
+      "line": "Jurong Region"
+    },
+    {
+      "id": "je1",
+      "name": "Tengah Plantation",
+      "cx": "170",
+      "cy": "395",
+      "line": "Jurong Region"
+    },
+    {
+      "id": "je2",
+      "name": "Tengah Park",
+      "cx": "198",
+      "cy": "425",
+      "line": "Jurong Region"
+    },
+    {
+      "id": "je3",
+      "name": "Bukit Batok West",
+      "cx": "225",
+      "cy": "452",
+      "line": "Jurong Region"
+    },
+    {
+      "id": "je4",
+      "name": "Toh Guan",
+      "cx": "249",
+      "cy": "477",
+      "line": "Jurong Region"
+    },
+    {
+      "id": "ie21",
+      "name": "Jurong East",
+      "cx": "286",
+      "cy": "514",
+      "line": "Jurong Region"
+    },
+    {
+      "id": "je6",
+      "name": "Jurong Town Hall",
+      "cx": "311",
+      "cy": "539",
+      "line": "Jurong Region"
+    },
+    {
+      "id": "je7",
+      "name": "Pandan Reservoir",
+      "cx": "346",
+      "cy": "574",
+      "line": "Jurong Region"
+    },
+    {
+      "id": "ie22",
+      "name": "Haw Par Villa",
+      "cx": "481",
+      "cy": "709",
+      "line": "Jurong Region"
+    }
+  ],
+  "ns": [
+    {
+      "id": "ie23",
+      "name": "Jurong East",
+      "cx": "286",
+      "cy": "514",
+      "line": "North-South"
+    },
+    {
+      "id": "ns2",
+      "name": "Bukit Batok",
+      "cx": "286",
+      "cy": "413",
+      "line": "North-South"
+    },
+    {
+      "id": "ns3",
+      "name": "Bukit Gombak",
+      "cx": "286",
+      "cy": "351",
+      "line": "North-South"
+    },
+    {
+      "id": "ns3x",
+      "name": "Brickland",
+      "cx": "286",
+      "cy": "291",
+      "line": "North-South"
+    },
+    {
+      "id": "ie24",
+      "name": "Choa Chu Kang",
+      "cx": "286",
+      "cy": "225.5",
+      "line": "North-South"
+    },
+    {
+      "id": "ns6",
+      "name": "Yew Tee",
+      "cx": "286",
+      "cy": "173",
+      "line": "North-South"
+    },
+    {
+      "id": "ie25",
+      "name": "Sungei Kadut",
+      "cx": "286",
+      "cy": "123",
+      "line": "North-South"
+    },
+    {
+      "id": "ns7",
+      "name": "Kranji",
+      "cx": "352",
+      "cy": "87",
+      "line": "North-South"
+    },
+    {
+      "id": "ns8",
+      "name": "Marsiling",
+      "cx": "435",
+      "cy": "87",
+      "line": "North-South"
+    },
+    {
+      "id": "ie26",
+      "name": "Woodlands",
+      "cx": "549",
+      "cy": "87",
+      "line": "North-South"
+    },
+    {
+      "id": "ns10",
+      "name": "Admiralty",
+      "cx": "612",
+      "cy": "87",
+      "line": "North-South"
+    },
+    {
+      "id": "ns11",
+      "name": "Sembawang",
+      "cx": "685",
+      "cy": "87",
+      "line": "North-South"
+    },
+    {
+      "id": "ns12",
+      "name": "Canberra",
+      "cx": "735",
+      "cy": "104",
+      "line": "North-South"
+    },
+    {
+      "id": "ns13",
+      "name": "Yishun",
+      "cx": "775",
+      "cy": "144",
+      "line": "North-South"
+    },
+    {
+      "id": "ns14",
+      "name": "Khatib",
+      "cx": "786",
+      "cy": "202",
+      "line": "North-South"
+    },
+    {
+      "id": "ns15",
+      "name": "Yio Chu Kang",
+      "cx": "786",
+      "cy": "250",
+      "line": "North-South"
+    },
+    {
+      "id": "ns16",
+      "name": "Ang Mo Kio",
+      "cx": "786",
+      "cy": "300",
+      "line": "North-South"
+    },
+    {
+      "id": "ie27",
+      "name": "Bishan",
+      "cx": "786",
+      "cy": "394",
+      "line": "North-South"
+    },
+    {
+      "id": "ns18",
+      "name": "Braddell",
+      "cx": "786",
+      "cy": "428",
+      "line": "North-South"
+    },
+    {
+      "id": "ns19",
+      "name": "Toa Payoh",
+      "cx": "770",
+      "cy": "467",
+      "line": "North-South"
+    },
+    {
+      "id": "ns20",
+      "name": "Novena",
+      "cx": "739",
+      "cy": "498",
+      "line": "North-South"
+    },
+    {
+      "id": "ie28",
+      "name": "Newton",
+      "cx": "705",
+      "cy": "532",
+      "line": "North-South"
+    },
+    {
+      "id": "ie29",
+      "name": "Orchard",
+      "cx": "660",
+      "cy": "586",
+      "line": "North-South"
+    },
+    {
+      "id": "ns23",
+      "name": "Somerset",
+      "cx": "702",
+      "cy": "632",
+      "line": "North-South"
+    },
+    {
+      "id": "ie30",
+      "name": "Dhoby Ghaut",
+      "cx": "760.2",
+      "cy": "689",
+      "line": "North-South"
+    },
+    {
+      "id": "ie31",
+      "name": "City Hall",
+      "cx": "830.3",
+      "cy": "790",
+      "line": "North-South"
+    },
+    {
+      "id": "ie32",
+      "name": "Raffles Place",
+      "cx": "799",
+      "cy": "822",
+      "line": "North-South"
+    },
+    {
+      "id": "ie33",
+      "name": "Marina Bay",
+      "cx": "786",
+      "cy": "916",
+      "line": "North-South"
+    },
+    {
+      "id": "ns28",
+      "name": "Marina South Pier",
+      "cx": "786",
+      "cy": "962",
+      "line": "North-South"
+    }
+  ],
+  "dt": [
+    {
+      "id": "ie34",
+      "name": "Sungei Kadut",
+      "cx": "286",
+      "cy": "123",
+      "line": "Downtown"
+    },
+    {
+      "id": "ie35",
+      "name": "Bukit Panjang",
+      "cx": "479",
+      "cy": "225.5",
+      "line": "Downtown"
+    },
+    {
+      "id": "dt2",
+      "name": "Cashew",
+      "cx": "479",
+      "cy": "265",
+      "line": "Downtown"
+    },
+    {
+      "id": "dt3",
+      "name": "Hillview",
+      "cx": "479",
+      "cy": "297",
+      "line": "Downtown"
+    },
+    {
+      "id": "dt4",
+      "name": "Hume",
+      "cx": "479",
+      "cy": "329",
+      "line": "Downtown"
+    },
+    {
+      "id": "dt5",
+      "name": "Beauty World",
+      "cx": "479",
+      "cy": "361",
+      "line": "Downtown"
+    },
+    {
+      "id": "dt6",
+      "name": "King Albert Park",
+      "cx": "485",
+      "cy": "406",
+      "line": "Downtown"
+    },
+    {
+      "id": "dt7",
+      "name": "Sixth Avenue",
+      "cx": "502",
+      "cy": "425",
+      "line": "Downtown"
+    },
+    {
+      "id": "dt8",
+      "name": "Tan Kah Kee",
+      "cx": "524",
+      "cy": "447.5",
+      "line": "Downtown"
+    },
+    {
+      "id": "ie36",
+      "name": "Botanic Gardens",
+      "cx": "548",
+      "cy": "471.5",
+      "line": "Downtown"
+    },
+    {
+      "id": "ie37",
+      "name": "Stevens",
+      "cx": "658",
+      "cy": "486",
+      "line": "Downtown"
+    },
+    {
+      "id": "ie38",
+      "name": "Newton",
+      "cx": "705",
+      "cy": "532",
+      "line": "Downtown"
+    },
+    {
+      "id": "ie39",
+      "name": "Little India",
+      "cx": "780",
+      "cy": "606.5",
+      "line": "Downtown"
+    },
+    {
+      "id": "dt13",
+      "name": "Rochor",
+      "cx": "818",
+      "cy": "645",
+      "line": "Downtown"
+    },
+    {
+      "id": "ie40",
+      "name": "Bugis",
+      "cx": "899",
+      "cy": "726",
+      "line": "Downtown"
+    },
+    {
+      "id": "ie41",
+      "name": "Promenade",
+      "cx": "953.3",
+      "cy": "806",
+      "line": "Downtown"
+    },
+    {
+      "id": "ie42",
+      "name": "Bayfront",
+      "cx": "887",
+      "cy": "871",
+      "line": "Downtown"
+    },
+    {
+      "id": "dt17",
+      "name": "Downtown",
+      "cx": "804",
+      "cy": "866",
+      "line": "Downtown"
+    },
+    {
+      "id": "dt18",
+      "name": "Telok Ayer",
+      "cx": "742",
+      "cy": "803",
+      "line": "Downtown"
+    },
+    {
+      "id": "ie43",
+      "name": "Chinatown",
+      "cx": "693.5",
+      "cy": "754",
+      "line": "Downtown"
+    },
+    {
+      "id": "dt20",
+      "name": "Fort Canning",
+      "cx": "703.5",
+      "cy": "727",
+      "line": "Downtown"
+    },
+    {
+      "id": "dt21",
+      "name": "Bencoolen",
+      "cx": "832",
+      "cy": "693",
+      "line": "Downtown"
+    },
+    {
+      "id": "dt22",
+      "name": "Jalan Besar",
+      "cx": "865",
+      "cy": "659.8",
+      "line": "Downtown"
+    },
+    {
+      "id": "dt23",
+      "name": "Bendemeer",
+      "cx": "896",
+      "cy": "629",
+      "line": "Downtown"
+    },
+    {
+      "id": "dt24",
+      "name": "Geylang Bahru",
+      "cx": "927",
+      "cy": "598",
+      "line": "Downtown"
+    },
+    {
+      "id": "dt25",
+      "name": "Mattar",
+      "cx": "965",
+      "cy": "580",
+      "line": "Downtown"
+    },
+    {
+      "id": "ie44",
+      "name": "MacPherson",
+      "cx": "995",
+      "cy": "580",
+      "line": "Downtown"
+    },
+    {
+      "id": "dt27",
+      "name": "Ubi",
+      "cx": "1046",
+      "cy": "580",
+      "line": "Downtown"
+    },
+    {
+      "id": "dt28",
+      "name": "Kaki Bukit",
+      "cx": "1089",
+      "cy": "580",
+      "line": "Downtown"
+    },
+    {
+      "id": "dt29",
+      "name": "Bedok North",
+      "cx": "1129",
+      "cy": "580",
+      "line": "Downtown"
+    },
+    {
+      "id": "dt30",
+      "name": "Bedok Reservoir",
+      "cx": "1172.5",
+      "cy": "580",
+      "line": "Downtown"
+    },
+    {
+      "id": "dt31",
+      "name": "Tampines West",
+      "cx": "1211",
+      "cy": "580",
+      "line": "Downtown"
+    },
+    {
+      "id": "ie45",
+      "name": "Tampines",
+      "cx": "1245",
+      "cy": "580.5",
+      "line": "Downtown"
+    },
+    {
+      "id": "dt33",
+      "name": "Tampines East",
+      "cx": "1286",
+      "cy": "612",
+      "line": "Downtown"
+    },
+    {
+      "id": "dt34",
+      "name": "Upper Changi",
+      "cx": "1286",
+      "cy": "647",
+      "line": "Downtown"
+    },
+    {
+      "id": "ie46",
+      "name": "Expo",
+      "cx": "1286",
+      "cy": "674",
+      "line": "Downtown"
+    },
+    {
+      "id": "dt36",
+      "name": "Xilin",
+      "cx": "1286",
+      "cy": "726",
+      "line": "Downtown"
+    },
+    {
+      "id": "ie47",
+      "name": "Sungei Bedok",
+      "cx": "1286",
+      "cy": "766",
+      "line": "Downtown"
+    }
+  ],
+  "te": [
+    {
+      "id": "te1",
+      "name": "Woodlands North",
+      "cx": "496",
+      "cy": "34",
+      "line": "Thomson-East Coast"
+    },
+    {
+      "id": "ie48",
+      "name": "Woodlands",
+      "cx": "549",
+      "cy": "87",
+      "line": "Thomson-East Coast"
+    },
+    {
+      "id": "te3",
+      "name": "Woodlands South",
+      "cx": "589",
+      "cy": "127",
+      "line": "Thomson-East Coast"
+    },
+    {
+      "id": "te4",
+      "name": "Springleaf",
+      "cx": "624",
+      "cy": "161.8",
+      "line": "Thomson-East Coast"
+    },
+    {
+      "id": "te5",
+      "name": "Lentor",
+      "cx": "658",
+      "cy": "208",
+      "line": "Thomson-East Coast"
+    },
+    {
+      "id": "te6",
+      "name": "Mayflower",
+      "cx": "658",
+      "cy": "247",
+      "line": "Thomson-East Coast"
+    },
+    {
+      "id": "te7",
+      "name": "Bright Hill",
+      "cx": "658",
+      "cy": "309",
+      "line": "Thomson-East Coast"
+    },
+    {
+      "id": "te8",
+      "name": "Upper Thomson",
+      "cx": "658",
+      "cy": "357",
+      "line": "Thomson-East Coast"
+    },
+    {
+      "id": "ie49",
+      "name": "Caldecott",
+      "cx": "658",
+      "cy": "402.8",
+      "line": "Thomson-East Coast"
+    },
+    {
+      "id": "te10",
+      "name": "Mount Pleasant",
+      "cx": "658",
+      "cy": "444",
+      "line": "Thomson-East Coast"
+    },
+    {
+      "id": "ie50",
+      "name": "Stevens",
+      "cx": "658",
+      "cy": "486",
+      "line": "Thomson-East Coast"
+    },
+    {
+      "id": "te12",
+      "name": "Napier",
+      "cx": "658",
+      "cy": "517",
+      "line": "Thomson-East Coast"
+    },
+    {
+      "id": "te13",
+      "name": "Orchard Boulevard",
+      "cx": "658",
+      "cy": "549",
+      "line": "Thomson-East Coast"
+    },
+    {
+      "id": "ie51",
+      "name": "Orchard",
+      "cx": "660",
+      "cy": "586",
+      "line": "Thomson-East Coast"
+    },
+    {
+      "id": "te15",
+      "name": "Great World",
+      "cx": "658",
+      "cy": "648",
+      "line": "Thomson-East Coast"
+    },
+    {
+      "id": "te16",
+      "name": "Havelock",
+      "cx": "658",
+      "cy": "694",
+      "line": "Thomson-East Coast"
+    },
+    {
+      "id": "ie52",
+      "name": "Outram Park",
+      "cx": "657",
+      "cy": "790.5",
+      "line": "Thomson-East Coast"
+    },
+    {
+      "id": "te18",
+      "name": "Maxwell",
+      "cx": "690",
+      "cy": "825",
+      "line": "Thomson-East Coast"
+    },
+    {
+      "id": "te19",
+      "name": "Shenton Way",
+      "cx": "745",
+      "cy": "881",
+      "line": "Thomson-East Coast"
+    },
+    {
+      "id": "ie53",
+      "name": "Marina Bay",
+      "cx": "786",
+      "cy": "916",
+      "line": "Thomson-East Coast"
+    },
+    {
+      "id": "te21",
+      "name": "Marina South",
+      "cx": "846",
+      "cy": "953",
+      "line": "Thomson-East Coast"
+    },
+    {
+      "id": "te22",
+      "name": "Gardens by the Bay",
+      "cx": "901",
+      "cy": "948",
+      "line": "Thomson-East Coast"
+    },
+    {
+      "id": "te22a",
+      "name": "Founders Memorial",
+      "cx": "951",
+      "cy": "915",
+      "line": "Thomson-East Coast"
+    },
+    {
+      "id": "te23",
+      "name": "Tanjong Rhu",
+      "cx": "1001",
+      "cy": "865",
+      "line": "Thomson-East Coast"
+    },
+    {
+      "id": "te24",
+      "name": "Katong Park",
+      "cx": "1027",
+      "cy": "829",
+      "line": "Thomson-East Coast"
+    },
+    {
+      "id": "te25",
+      "name": "Tanjong Katong",
+      "cx": "1044",
+      "cy": "797",
+      "line": "Thomson-East Coast"
+    },
+    {
+      "id": "te26",
+      "name": "Marine Parade",
+      "cx": "1085",
+      "cy": "766",
+      "line": "Thomson-East Coast"
+    },
+    {
+      "id": "te27",
+      "name": "Marine Terrace",
+      "cx": "1124",
+      "cy": "766",
+      "line": "Thomson-East Coast"
+    },
+    {
+      "id": "te28",
+      "name": "Siglap",
+      "cx": "1163",
+      "cy": "766",
+      "line": "Thomson-East Coast"
+    },
+    {
+      "id": "te29",
+      "name": "Bayshore",
+      "cx": "1202",
+      "cy": "766",
+      "line": "Thomson-East Coast"
+    },
+    {
+      "id": "te30",
+      "name": "Bedok South",
+      "cx": "1241",
+      "cy": "766",
+      "line": "Thomson-East Coast"
+    },
+    {
+      "id": "ie54",
+      "name": "Sungei Bedok",
+      "cx": "1286",
+      "cy": "766",
+      "line": "Thomson-East Coast"
+    },
+    {
+      "id": "ie55",
+      "name": "Changi Airport",
+      "cx": "1334",
+      "cy": "674",
+      "line": "Thomson-East Coast"
+    }
+  ],
+  "ne": [
+    {
+      "id": "ne18",
+      "name": "Punggol Coast",
+      "cx": "1254",
+      "cy": "132",
+      "line": "North-East"
+    },
+    {
+      "id": "ie56",
+      "name": "Punggol",
+      "cx": "1177",
+      "cy": "209.5",
+      "line": "North-East"
+    },
+    {
+      "id": "ie57",
+      "name": "Sengkang",
+      "cx": "1080.7",
+      "cy": "305.3",
+      "line": "North-East"
+    },
+    {
+      "id": "ne15",
+      "name": "Buangkok",
+      "cx": "1018",
+      "cy": "368",
+      "line": "North-East"
+    },
+    {
+      "id": "ne14",
+      "name": "Hougang",
+      "cx": "988",
+      "cy": "398.5",
+      "line": "North-East"
+    },
+    {
+      "id": "ne13",
+      "name": "Kovan",
+      "cx": "956",
+      "cy": "430",
+      "line": "North-East"
+    },
+    {
+      "id": "ie58",
+      "name": "Serangoon",
+      "cx": "923",
+      "cy": "463.2",
+      "line": "North-East"
+    },
+    {
+      "id": "ne11",
+      "name": "Woodleigh",
+      "cx": "888",
+      "cy": "498",
+      "line": "North-East"
+    },
+    {
+      "id": "ne10",
+      "name": "Potong Pasir",
+      "cx": "861",
+      "cy": "525",
+      "line": "North-East"
+    },
+    {
+      "id": "ne9",
+      "name": "Boon Keng",
+      "cx": "833",
+      "cy": "553",
+      "line": "North-East"
+    },
+    {
+      "id": "ne8",
+      "name": "Farrer Park",
+      "cx": "807.5",
+      "cy": "578.4",
+      "line": "North-East"
+    },
+    {
+      "id": "ie59",
+      "name": "Little India",
+      "cx": "780",
+      "cy": "606.5",
+      "line": "North-East"
+    },
+    {
+      "id": "ie60",
+      "name": "Dhoby Ghaut",
+      "cx": "760.2",
+      "cy": "689",
+      "line": "North-East"
+    },
+    {
+      "id": "ne5",
+      "name": "Clarke Quay",
+      "cx": "723.5",
+      "cy": "724.5",
+      "line": "North-East"
+    },
+    {
+      "id": "ie61",
+      "name": "Chinatown",
+      "cx": "693.5",
+      "cy": "754",
+      "line": "North-East"
+    },
+    {
+      "id": "ie62",
+      "name": "Outram Park",
+      "cx": "657",
+      "cy": "790.5",
+      "line": "North-East"
+    },
+    {
+      "id": "ie63",
+      "name": "HarbourFront",
+      "cx": "581",
+      "cy": "866",
+      "line": "North-East"
+    }
+  ],
+  "cca": [
+    {
+      "id": "ie64",
+      "name": "Marymount",
+      "cx": "721",
+      "cy": "390.8",
+      "line": "Circle"
+    },
+    {
+      "id": "ie65",
+      "name": "Bishan",
+      "cx": "786",
+      "cy": "394",
+      "line": "Circle"
+    },
+    {
+      "id": "cc14",
+      "name": "Lorong Chuan",
+      "cx": "859",
+      "cy": "418",
+      "line": "Circle"
+    },
+    {
+      "id": "ie66",
+      "name": "Serangoon",
+      "cx": "923",
+      "cy": "463.2",
+      "line": "Circle"
+    },
+    {
+      "id": "cc12",
+      "name": "Bartley",
+      "cx": "964",
+      "cy": "514",
+      "line": "Circle"
+    },
+    {
+      "id": "cc11",
+      "name": "Tai Seng",
+      "cx": "984.5",
+      "cy": "552",
+      "line": "Circle"
+    },
+    {
+      "id": "ie67",
+      "name": "MacPherson",
+      "cx": "995",
+      "cy": "580",
+      "line": "Circle"
+    },
+    {
+      "id": "ie68",
+      "name": "Paya Lebar",
+      "cx": "1005",
+      "cy": "639",
+      "line": "Circle"
+    },
+    {
+      "id": "cc8",
+      "name": "Dakota",
+      "cx": "1005",
+      "cy": "670",
+      "line": "Circle"
+    },
+    {
+      "id": "cc7",
+      "name": "Mountbatten",
+      "cx": "1002",
+      "cy": "695",
+      "line": "Circle"
+    },
+    {
+      "id": "cc6",
+      "name": "Stadium",
+      "cx": "997",
+      "cy": "720",
+      "line": "Circle"
+    },
+    {
+      "id": "cc5",
+      "name": "Nicoll Highway",
+      "cx": "980",
+      "cy": "766",
+      "line": "Circle"
+    },
+    {
+      "id": "ie69",
+      "name": "Promenade",
+      "cx": "953.3",
+      "cy": "806",
+      "line": "Circle"
+    },
+    {
+      "id": "ie70",
+      "name": "Bayfront",
+      "cx": "887",
+      "cy": "871",
+      "line": "Circle"
+    },
+    {
+      "id": "ie71",
+      "name": "Marina Bay",
+      "cx": "786",
+      "cy": "916",
+      "line": "Circle"
+    },
+    {
+      "id": "cc32",
+      "name": "Prince Edward Road",
+      "cx": "735",
+      "cy": "919",
+      "line": "Circle"
+    },
+    {
+      "id": "cc31",
+      "name": "Cantonment",
+      "cx": "681",
+      "cy": "912",
+      "line": "Circle"
+    },
+    {
+      "id": "cc30",
+      "name": "Keppel",
+      "cx": "630",
+      "cy": "895",
+      "line": "Circle"
+    },
+    {
+      "id": "ie72",
+      "name": "HarbourFront",
+      "cx": "581",
+      "cy": "866",
+      "line": "Circle"
+    },
+    {
+      "id": "cc28",
+      "name": "Telok Blangah",
+      "cx": "540",
+      "cy": "827.5",
+      "line": "Circle"
+    },
+    {
+      "id": "cc27",
+      "name": "Labrador Park",
+      "cx": "513.8",
+      "cy": "792",
+      "line": "Circle"
+    },
+    {
+      "id": "cc26",
+      "name": "Pasir Panjang",
+      "cx": "493.5",
+      "cy": "750",
+      "line": "Circle"
+    },
+    {
+      "id": "ie73",
+      "name": "Haw Par Villa",
+      "cx": "481",
+      "cy": "709",
+      "line": "Circle"
+    },
+    {
+      "id": "cc24",
+      "name": "Kent Ridge",
+      "cx": "476",
+      "cy": "674",
+      "line": "Circle"
+    },
+    {
+      "id": "cc23",
+      "name": "one-north",
+      "cx": "475.7",
+      "cy": "637",
+      "line": "Circle"
+    },
+    {
+      "id": "ie74",
+      "name": "Buona Vista",
+      "cx": "481",
+      "cy": "599",
+      "line": "Circle"
+    },
+    {
+      "id": "cc21",
+      "name": "Holland Village",
+      "cx": "497",
+      "cy": "549",
+      "line": "Circle"
+    },
+    {
+      "id": "cc20",
+      "name": "Farrer Road",
+      "cx": "515.5",
+      "cy": "514",
+      "line": "Circle"
+    },
+    {
+      "id": "ie75",
+      "name": "Botanic Gardens",
+      "cx": "548",
+      "cy": "471.5",
+      "line": "Circle"
+    },
+    {
+      "id": "cc18",
+      "name": "Bukit Brown",
+      "cx": "601",
+      "cy": "429",
+      "line": "Circle"
+    },
+    {
+      "id": "ie76",
+      "name": "Caldecott",
+      "cx": "658",
+      "cy": "402.8",
+      "line": "Circle"
+    },
+    {
+      "id": "ie77",
+      "name": "Marymount",
+      "cx": "721",
+      "cy": "390.8",
+      "line": "Circle"
+    }
+  ],
+  "ccb": [
+    {
+      "id": "ce4",
+      "name": "Promenade",
+      "cx": "953.3",
+      "cy": "806",
+      "line": "Circle"
+    },
+    {
+      "id": "cc3",
+      "name": "Esplanade",
+      "cx": "870",
+      "cy": "785",
+      "line": "Circle"
+    },
+    {
+      "id": "cc2",
+      "name": "Bras Basah",
+      "cx": "824",
+      "cy": "739",
+      "line": "Circle"
+    },
+    {
+      "id": "cc1",
+      "name": "Dhoby Ghaut",
+      "cx": "760.2",
+      "cy": "689",
+      "line": "Circle"
+    }
+  ],
+  "bplrta": [
+    {
+      "id": "ie78",
+      "name": "Choa Chu Kang",
+      "cx": "286",
+      "cy": "225.5",
+      "line": "Bukit Panjang"
+    },
+    {
+      "id": "bp2",
+      "name": "South View",
+      "cx": "321",
+      "cy": "226",
+      "line": "Bukit Panjang"
+    },
+    {
+      "id": "bp3",
+      "name": "Keat Hong",
+      "cx": "356",
+      "cy": "226",
+      "line": "Bukit Panjang"
+    },
+    {
+      "id": "bp4",
+      "name": "Teck Whye",
+      "cx": "391",
+      "cy": "226",
+      "line": "Bukit Panjang"
+    },
+    {
+      "id": "bp5",
+      "name": "Phoenix",
+      "cx": "426",
+      "cy": "226",
+      "line": "Bukit Panjang"
+    },
+    {
+      "id": "ie79",
+      "name": "Bukit Panjang",
+      "cx": "479",
+      "cy": "225.5",
+      "line": "Bukit Panjang"
+    }
+  ],
+  "bplrtb": [
+    {
+      "id": "ie80",
+      "name": "Bukit Panjang",
+      "cx": "479",
+      "cy": "225.5",
+      "line": "Bukit Panjang"
+    },
+    {
+      "id": "bp13",
+      "name": "Senja",
+      "cx": "521",
+      "cy": "206",
+      "line": "Bukit Panjang"
+    },
+    {
+      "id": "bp12",
+      "name": "Jelapang",
+      "cx": "546",
+      "cy": "192",
+      "line": "Bukit Panjang"
+    },
+    {
+      "id": "bp11",
+      "name": "Segar",
+      "cx": "565",
+      "cy": "204",
+      "line": "Bukit Panjang"
+    },
+    {
+      "id": "bp10",
+      "name": "Fajar",
+      "cx": "565",
+      "cy": "226",
+      "line": "Bukit Panjang"
+    },
+    {
+      "id": "bp9",
+      "name": "Bangkit",
+      "cx": "565",
+      "cy": "248",
+      "line": "Bukit Panjang"
+    },
+    {
+      "id": "bp8",
+      "name": "Pending",
+      "cx": "546",
+      "cy": "259",
+      "line": "Bukit Panjang"
+    },
+    {
+      "id": "bp7",
+      "name": "Petir",
+      "cx": "521",
+      "cy": "245",
+      "line": "Bukit Panjang"
+    },
+    {
+      "id": "ie81",
+      "name": "Bukit Panjang",
+      "cx": "479",
+      "cy": "225.5",
+      "line": "Bukit Panjang"
+    }
+  ],
+  "sklrta": [
+    {
+      "id": "ie82",
+      "name": "Sengkang",
+      "cx": "1080.7",
+      "cy": "305.3",
+      "line": "Sengkang-Punggol"
+    },
+    {
+      "id": "sw8",
+      "name": "Renjong",
+      "cx": "1047",
+      "cy": "291.5",
+      "line": "Sengkang-Punggol"
+    },
+    {
+      "id": "sw7",
+      "name": "Tongkang",
+      "cx": "1018.7",
+      "cy": "284.5",
+      "line": "Sengkang-Punggol"
+    },
+    {
+      "id": "sw6",
+      "name": "Layar",
+      "cx": "1003.5",
+      "cy": "269.5",
+      "line": "Sengkang-Punggol"
+    },
+    {
+      "id": "sw5",
+      "name": "Fernvale",
+      "cx": "1002",
+      "cy": "249",
+      "line": "Sengkang-Punggol"
+    },
+    {
+      "id": "sw4",
+      "name": "Thanggam",
+      "cx": "1022",
+      "cy": "229",
+      "line": "Sengkang-Punggol"
+    },
+    {
+      "id": "sw3",
+      "name": "Kupang",
+      "cx": "1044",
+      "cy": "229",
+      "line": "Sengkang-Punggol"
+    },
+    {
+      "id": "sw2",
+      "name": "Farmway",
+      "cx": "1061.4",
+      "cy": "247",
+      "line": "Sengkang-Punggol"
+    },
+    {
+      "id": "sw1",
+      "name": "Cheng Lim",
+      "cx": "1066.5",
+      "cy": "273.5",
+      "line": "Sengkang-Punggol"
+    },
+    {
+      "id": "ie83",
+      "name": "Sengkang",
+      "cx": "1080.7",
+      "cy": "305.3",
+      "line": "Sengkang-Punggol"
+    }
+  ],
+  "sklrtb": [
+    {
+      "id": "ie84",
+      "name": "Sengkang",
+      "cx": "1080.7",
+      "cy": "305.3",
+      "line": "Sengkang-Punggol"
+    },
+    {
+      "id": "se1",
+      "name": "Compassvale",
+      "cx": "1127",
+      "cy": "321",
+      "line": "Sengkang-Punggol"
+    },
+    {
+      "id": "se2",
+      "name": "Rumbia",
+      "cx": "1154",
+      "cy": "339",
+      "line": "Sengkang-Punggol"
+    },
+    {
+      "id": "se3",
+      "name": "Bakau",
+      "cx": "1151",
+      "cy": "372",
+      "line": "Sengkang-Punggol"
+    },
+    {
+      "id": "se4",
+      "name": "Kangkar",
+      "cx": "1113",
+      "cy": "377.3",
+      "line": "Sengkang-Punggol"
+    },
+    {
+      "id": "se5",
+      "name": "Ranggung",
+      "cx": "1095.5",
+      "cy": "348.5",
+      "line": "Sengkang-Punggol"
+    },
+    {
+      "id": "ie85",
+      "name": "Sengkang",
+      "cx": "1080.7",
+      "cy": "305.3",
+      "line": "Sengkang-Punggol"
+    }
+  ],
+  "pglrta": [
+    {
+      "id": "ie86",
+      "name": "Punggol",
+      "cx": "1177",
+      "cy": "209.5",
+      "line": "Sengkang-Punggol"
+    },
+    {
+      "id": "pw7",
+      "name": "Soo Teck",
+      "cx": "1141",
+      "cy": "194.5",
+      "line": "Sengkang-Punggol"
+    },
+    {
+      "id": "pw6",
+      "name": "Sumang",
+      "cx": "1115.5",
+      "cy": "190",
+      "line": "Sengkang-Punggol"
+    },
+    {
+      "id": "pw5",
+      "name": "Nibong",
+      "cx": "1098.5",
+      "cy": "173",
+      "line": "Sengkang-Punggol"
+    },
+    {
+      "id": "pw4",
+      "name": "Samudera",
+      "cx": "1106",
+      "cy": "144",
+      "line": "Sengkang-Punggol"
+    },
+    {
+      "id": "pw3",
+      "name": "Punggol Point",
+      "cx": "1139",
+      "cy": "132",
+      "line": "Sengkang-Punggol"
+    },
+    {
+      "id": "pw2",
+      "name": "Teck Lee",
+      "cx": "1156",
+      "cy": "150",
+      "line": "Sengkang-Punggol"
+    },
+    {
+      "id": "pw1",
+      "name": "Sam Kee",
+      "cx": "1161",
+      "cy": "177",
+      "line": "Sengkang-Punggol"
+    },
+    {
+      "id": "ie87",
+      "name": "Punggol",
+      "cx": "1177",
+      "cy": "209.5",
+      "line": "Sengkang-Punggol"
+    }
+  ],
+  "pglrtb": [
+    {
+      "id": "ie88",
+      "name": "Punggol",
+      "cx": "1177",
+      "cy": "209.5",
+      "line": "Sengkang-Punggol"
+    },
+    {
+      "id": "pe7",
+      "name": "Damai",
+      "cx": "1214",
+      "cy": "224",
+      "line": "Sengkang-Punggol"
+    },
+    {
+      "id": "pe6",
+      "name": "Oasis",
+      "cx": "1238",
+      "cy": "230.5",
+      "line": "Sengkang-Punggol"
+    },
+    {
+      "id": "pe5",
+      "name": "Kadaloor",
+      "cx": "1254",
+      "cy": "246.5",
+      "line": "Sengkang-Punggol"
+    },
+    {
+      "id": "pe4",
+      "name": "Riviera",
+      "cx": "1245",
+      "cy": "277.7",
+      "line": "Sengkang-Punggol"
+    },
+    {
+      "id": "pe3",
+      "name": "Coral Edge",
+      "cx": "1215",
+      "cy": "287",
+      "line": "Sengkang-Punggol"
+    },
+    {
+      "id": "pe2",
+      "name": "Meridian",
+      "cx": "1198",
+      "cy": "270",
+      "line": "Sengkang-Punggol"
+    },
+    {
+      "id": "pe1",
+      "name": "Cove",
+      "cx": "1191.7",
+      "cy": "247.3",
+      "line": "Sengkang-Punggol"
+    },
+    {
+      "id": "ie89",
+      "name": "Punggol",
+      "cx": "1177",
+      "cy": "209.5",
+      "line": "Sengkang-Punggol"
+    }
+  ]
+}

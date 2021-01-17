@@ -1,19 +1,19 @@
-import { useEffect } from "react";
+import { useEffect } from 'react';
 
 const useOutsideClick = (outsideTags, callback) => {
-    const handleClick = e => {
+  const handleClick = (e) => {
     if (outsideTags.includes(e.target.tagName)) {
-        callback();
+      callback();
     }
-    };
+  };
 
-    useEffect(() => {
-    document.addEventListener("click", handleClick);
+  useEffect(() => {
+    document.addEventListener('click', handleClick);
 
     return () => {
-        document.removeEventListener("click", handleClick);
+      document.removeEventListener('click', handleClick);
     };
-    });
+  });
 };
 
 export default useOutsideClick;

@@ -3,7 +3,7 @@ import { connect } from 'react-redux';
 import { selectStation } from '../redux/actions';
 
 const stationStyle = {
-  cursor: 'pointer',
+  cursor: 'pointer'
 };
 
 export const Station = ({
@@ -15,7 +15,6 @@ export const Station = ({
   connectedSelectStation,
   deselectStation
 }) => {
-
   return (
     <circle
       id={id}
@@ -35,20 +34,18 @@ export const Station = ({
       cy={cy}
       r={getStationRadius(name, route)}
     />
-  )
+  );
 };
 
-const getStationRadius = (name, route) =>
-  route.has(name) ? '10' : '6';
+const getStationRadius = (name, route) => (route.has(name) ? '10' : '6');
 
-const getStationStrokeWidth = (name, route) =>
-  route.has(name) ? '3' : '1';
+const getStationStrokeWidth = (name, route) => (route.has(name) ? '3' : '1');
 
 const getStroke = (name, route) => {
   if (route.size > 1) {
-      return route.has(name) ? '#000000' : '#d8d8d8';
-  };
-  return '#000000'
+    return route.has(name) ? '#000000' : '#d8d8d8';
+  }
+  return '#000000';
 };
 
 const mapStateToProps = (state) => {

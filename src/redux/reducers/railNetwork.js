@@ -12,10 +12,7 @@ const railNetwork = (
     labels: Object.values(labels).flat(),
     stations: Object.values(stations).flat(),
     rawStations: stations,
-    graph: buildGraph(
-      Object.values(stations),
-      interchanges
-    ),
+    graph: buildGraph(Object.values(stations), interchanges),
     route: new Set(),
     directions: []
   },
@@ -26,16 +23,21 @@ const railNetwork = (
       if (state.startStation === '') {
         const newRoute = new Set();
         newRoute.add(action.name);
-        return { 
-          ...state, 
+        return {
+          ...state,
           startStation: action.name,
           route: newRoute
         };
       } else if (state.destinationStation === '') {
-        const shortestPath = dijkstra(state.startStation, action.name, state.graph)
+        const shortestPath = dijkstra(
+          state.startStation,
+          action.name,
+          state.graph
+        );
         return {
           ...state,
-          destinationStation: action.name !== state.startStation ? action.name : '',
+          destinationStation:
+            action.name !== state.startStation ? action.name : '',
           route: new Set(shortestPath),
           directions: getDirections(shortestPath, state.rawStations)
         };
@@ -47,7 +49,7 @@ const railNetwork = (
           startStation: action.name,
           destinationStation: '',
           directions: [],
-          route: newRoute,
+          route: newRoute
         };
       }
     case 'RESET_SELECTION':
@@ -57,10 +59,10 @@ const railNetwork = (
         destinationStation: '',
         route: new Set(),
         directions: []
-      }
+      };
     default:
       return state;
   }
-}
+};
 
-export default railNetwork
+export default railNetwork;
