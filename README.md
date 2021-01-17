@@ -10,7 +10,7 @@ This app contains an interactive map with the stations and lines of Singapore's 
 
 ## Demo
 
-You can see a live demo of the app here [http://localhost:3000](http://localhost:3000).
+You can see a live demo of the app [here](https://singapore-mrt-route-planner.herokuapp.com/).
 
 ## Run this project locally
 
