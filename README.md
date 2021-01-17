@@ -1,6 +1,6 @@
 # Singapore MRT Route Planner
 
-This app contains an interactive map with the stations and lines of Singapore's urban rail system, including planned additions over the next decade. It allows users to find the shortest route from any station to any other station on this future network by using Dijktra's shortest path algorithm.
+This app contains an interactive map with the stations and lines of Singapore's urban rail system, including planned additions over the next decade. It allows users to find the shortest route from any station to any other station on this future network by using Dijkstra's shortest path algorithm.
 
 ## Instructions
 
